@@ -87,21 +87,10 @@ LOG: Manager received update — Item A delivered
 
 ---
 
-## 🔁 Run Multiple Orders (Optional)
-
-To simulate multiple orders:
-- Modify `OrderAgent` to send multiple pick requests in a loop, or
-- Launch multiple `OrderAgent` instances in `WarehouseAgentLauncher.java`
-
----
 
 ## 🙌 Author
 
-**Your Name**  
-[GitHub Profile](https://github.com/yourusername)
+**Costut Luca-Elisei**  
+[Github Profile](https://github.com/LucaCostut)
 
 ---
-
-## 📄 License
-
-This project is for academic use under your course requirements.
