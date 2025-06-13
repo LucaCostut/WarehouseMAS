@@ -86,11 +86,3 @@ LOG: Manager received update — Item A delivered
 ```
 
 ---
-
-
-## 🙌 Author
-
-**Costut Luca-Elisei**  
-[Github Profile](https://github.com/LucaCostut)
-
----
